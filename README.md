@@ -23,12 +23,12 @@ This project implements a Generative Adversarial Network (GAN) to convert graysc
 To run this project:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/gan-colorization.git
+    git clone https://github.com/anandbatchala/Black-and-white-to-colour_image-converter.git
     ```
 
 2. Navigate to the project directory and set up the environment:
     ```bash
-    cd gan-colorization
+    cd Black-and-white-to-colour_image-converter
     conda create --name gan-colorization python=3.8
     conda activate gan-colorization
     pip install -r requirements.txt
